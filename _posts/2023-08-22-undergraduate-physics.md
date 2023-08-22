@@ -6,3 +6,4 @@ categories: [Sample, Guides]
 ---
 
 List of summaries
+- [Electrodynamics and Synchrotron Radiation - Summary](https://notes-and-summaries.github.io/P5-Electrodynamics-and-synchrotron-radiation/Summary.pdf)
